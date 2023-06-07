@@ -21,5 +21,3 @@
 # Experiments
 1. Finding best combination of hyperparameters for integral loss
 2. Finding the differences between join_train method and each_train method with different loss functions
-3. Finding the losses when the different TTA is applied
-4. Finding the losses when the different augmentation is applied -> if possible
